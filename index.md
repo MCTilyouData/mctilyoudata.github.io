@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Door Dash Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
@@ -20,12 +20,12 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 
 ---
-#### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
+#### [Door Dash Project](https://www.linkedin.com/pulse/analyzing-doordash-marketing-sales-madison-tilyou-k67zc/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+In this case study from Data Analytics Accelerator, I was prompted to analyze Door Dash revenue from different marketing campaigns. The main focuses were:
+Which age groups were generating the most revenue and from what products?
+How could marketing target certain age groups to generate more income?
+What types of households spent the most money?
 
 ---
 
