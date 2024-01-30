@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Door Dash Project](/bank)
+#### [Africa SQL Project](/Africa SQL Project.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
