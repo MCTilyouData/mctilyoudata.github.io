@@ -42,6 +42,7 @@ WHERE | GROUP BY | ORDER BY | LIMIT | AS
 I began by gathering some basic information on the data. I collected all of the columns and a portion of the rows using a LIMIT function to get a feel for the data. The IDA has distributed over $55 Trillion to countries in need since the branch was developed. After some research into the IDA, I knew that Africa in general had received a large portion of the IDA's money and wanted to investigate the allocation of funds further. Take note that the data set splits Africa up into 4 different regions: **Africa, Eastern and Southern Africa, Middle East and North Africa, and Western and Central Africa**. I used a COUNT function, as well as a SUM function, to determine that the **region labeled Africa** has received the greatest amount of loans and grants, and the highest total amount of funds. I decided to focus on this region for my analysis. For the rest of this project, the **region labeled Africa will simply be referred to as Africa**. The query below shows the filter used to separate the data and focus on disbursements to Africa.
 
 <img src ="images/SQL Filter Africa.png?raw=true"/>
+<img src ="images/Africa Filter.png?raw=true"/>
 
 The COUNT function mentioned earlier revealed that there were a total of 2,891 loans and/or grants disbursed to Africa since the start of the IDA.
 
@@ -52,6 +53,10 @@ Using a simple SUM function, I was able to find that over $36 billion has been d
 
 ## **Analysis: Money Repaid**
 Continuing to look into Africa's data, I found that Africa has paid back over $97 million to the IDA, but still owes a whopping $1.1 billion. Luckily, out of the $36 billion that Africa has received over the years, the IDA has forgiven or cancelled nearly $235 million of that. Using a MAX function, it was noted that the largest cancelled loan totaled over $2.6 million. 
+<img src ="images/Max Cancelled Africa.png?raw=true"/>
+
+## **Analysis: Where is the Money Going?**
+With such large amounts of money being granted to region, I wanted to know what the money was being spent on and if it was making a difference. Using a variety of SQL functions including COUNT, GROUP BY, and ORDER BY, I was able to organize the different projects and identify which ones received the largest amount of grants or loans. 
 
 
 
