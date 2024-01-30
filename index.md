@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ---
 #### [Massachusetts Education Project](https://www.loom.com/share/e982296bf26b41889e5d5fc70260b9a1?sid=eb495c5a-7d0a-413c-83dd-5ef28928fc48)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Mass. DOE Dashboard.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 For this project, I created a dashboard in Tableau using data from the Massachusetts DOE. I analyzed data from over 1800 schools and focused on rates of college enrollment after graduation, percent graduation rates, and 4th grade math test scores.   
 
 
