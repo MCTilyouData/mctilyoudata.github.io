@@ -25,10 +25,20 @@ Using SQL, my goal was to accomplish the following objectives:
 4. Top projects include "Niger Basin Water Resources", "Regional HIV/AIDS Treatment Project", and the "Regional Trade Facilitation Project".
 
 ## **The Data**
-The data for this project was taken directly from the World Bank Group's financial website. At the time of this project, the data had been recently updated on January 16th, 2024. The data was downloaded and imported into SQL before analyzing the 30 columns and 1.25 million rows. Each row in this data set represented a disbursement from the IDA, and listed things like the disbursement date, region, country, amount disbursed, percent charge rate, amount repaid, amount cancelled, and amount owed to the IDA. You can see the total data set below. 
+The data for this project was taken directly from the World Bank Group's financial website. The data is updated regulary and can be found [here](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx/about_data) It was downloaded and imported into a program called [CSVfiddle.io](https://csvfiddle.io/#JTdCJTIyaXNUYWJsZU1ldGFkYXRhT3BlbiUyMiUzQWZhbHNlJTJDJTIyaXNOZXdUYWJsZUZvcm1PcGVuJTIyJTNBZmFsc2UlMkMlMjJpc0NvbmZpcm1EZWxldGVRdWVyeU9wZW4lMjIlM0FmYWxzZSUyQyUyMmlzQ29uZmlybURyb3BUYWJsZU9wZW4lMjIlM0FmYWxzZSUyQyUyMmlzU2hhcmVEaWFsb2dPcGVuJTIyJTNBZmFsc2UlMkMlMjJkYlJlYWR5JTIyJTNBZmFsc2UlMkMlMjJ0YWJsZXMlMjIlM0ElNUIlNUQlMkMlMjJxdWVyaWVzJTIyJTNBJTdCJTIyMCUyMiUzQSU3QiUyMmlkJTIyJTNBMCUyQyUyMnRpdGxlJTIyJTNBJTIyVW50aXRsZWQlMjBxdWVyeSUyMiUyQyUyMmJvZHklMjIlM0ElMjIlMjIlMkMlMjJyZXN1bHQlMjIlM0ElNUIlNUQlMkMlMjJlcnJvciUyMiUzQW51bGwlN0QlN0QlMkMlMjJhY3RpdmVRdWVyeUlkJTIyJTNBMCUyQyUyMmFjdGl2ZVRhYmxlTWV0YWRhdGFDb2x1bW5zJTIyJTNBJTVCJTVEJTJDJTIybG9jYWxUYWJsZXNUb1dhcm4lMjIlM0ElNUIlNUQlMkMlMjJpc1F1ZXJ5SW5Qcm9ncmVzcyUyMiUzQWZhbHNlJTJDJTIyZGlkQWRkTmV3VGFibGVTdWNjZWVkJTIyJTNBbnVsbCUyQyUyMmFkZE5ld1RhYmxlRXJyb3IlMjIlM0FudWxsJTdE), which mimics SQL's capabilities, without having to download SQL to your desktop. The data file was named "banking_data" and is used in the queries stated in the project below to analyze the 30 columns and 1.25 million rows contained within the set. Each row in this data set represented a disbursement from the IDA, and listed things like the disbursement date, region, country, amount disbursed, percent charge rate, amount repaid, amount cancelled, and amount owed to the IDA. You can see the total data set below. 
 
 <img src ="images/Data Dictionary - IDA Bank Project.png?raw=true"/>
 
+## **SQL Commands Used in This Project:**
+Aggregate Functions:
+SUM | AVG | MAX | MIN | COUNT
+Operators:
+AND | NOT | OR | NULL | LIKE | DESC
+Clauses:
+WHERE | GROUP BY | ORDER BY | LIMIT | AS
+
+## **Analysis: Overview**
+I began by gathering some basic information on the data. I collected all of the columns and a portion of the rows using a LIMIT function to get a feel for the data. After some research into the IDA, I knew that Africa had received a large portion of the IDA's money and wanted to investigate the country further. I used the query below to filter the data to focus on disbursements to Africa.
 
 
 
