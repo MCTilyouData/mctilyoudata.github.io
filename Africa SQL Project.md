@@ -27,7 +27,7 @@ Using SQL, my goal was to accomplish the following objectives:
 ## **The Data**
 The data for this project was taken directly from the World Bank Group's financial website. At the time of this project, the data had been recently updated on January 16th, 2024. The data was downloaded and imported into SQL before analyzing the 30 columns and 1.25 million rows. Each row in this data set represented a disbursement from the IDA, and listed things like the disbursement date, region, country, amount disbursed, percent charge rate, amount repaid, amount cancelled, and amount owed to the IDA. You can see the total data set below. 
 
-<img src ="imgages/
+<img src ="imgages/Data Dictionary - IDA Bank Project.png?raw=true"/>
 
 
 
