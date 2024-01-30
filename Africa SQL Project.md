@@ -14,9 +14,8 @@ was displayed and analyzed in SQL.
 ## **Objective**
 Using SQL, my goal was to accomplish the following objectives:
 1. Determine the total amount of money disbursed to Africa.
-2. Determine the amount of money Africa has paid back to the IDA and the amount of debt the IDA has cancelled for Africa.
-3. Determine the amount of money Africa still owes to the IDA.
-4. Analyze what projects the majority of the money was being used for in Africa.
+2. Determine the amount of money Africa has paid back to the IDA and the amount of debt the IDA has cancelled for Africa, as well as the amount of money Africa still owes to the IDA.
+3. Analyze what projects the majority of the money was being used for in Africa.
 
 ## **Key Findings**
 1. The country of Africa has received a total of 2891 loans and grants from the IDA, totaling over $36.3 Billion.
@@ -45,7 +44,11 @@ I began by gathering some basic information on the data. I collected all of the 
 I then used a COUNT function to determine that there were a total of 2,891 loans and/or grants disbursed to Africa since the start of the IDA.
 
 ## **Analysis: Money Distrubted to Africa**
-Using a simple SUM function, I was able to find that over $36 Billion has been distributed to the African region, with an average loan/grant amount of $12.5 million. 
+Using a simple SUM function, I was able to find that over $36 Billion has been distributed to the African region. Using an AVG function, it was determined that the average loan/grant amount was around $12.5 million. 
+<img src ="images/Total Africa Loans.png?raw=true"/>
+<img src ="images/Total Africa Loans Amount.png?raw=true"/>
+
+## **Analysis: Money Repaid**
 
 
 
