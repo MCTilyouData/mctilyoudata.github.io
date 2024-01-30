@@ -21,7 +21,7 @@ My final write up for Avery Smith's 21 Days To Data project covering New York Ci
 
 ---
 #### [Door Dash Project](https://www.linkedin.com/pulse/analyzing-doordash-marketing-sales-madison-tilyou-k67zc/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="Door DASh.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 In this case study from Data Analytics Accelerator, I was prompted to analyze Door Dash revenue from different marketing campaigns. The main focuses were:
 Which age groups were generating the most revenue and from what products?
 How could marketing target certain age groups to generate more income?
