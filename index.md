@@ -5,13 +5,8 @@
 ### Learn About My Projects
 
 #### [Africa SQL Project](/Africa SQL Project.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<img src="images/Bank Background.jpg?raw=true"/>
 
----
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
 #### [Massachusetts Education Project](https://www.loom.com/share/e982296bf26b41889e5d5fc70260b9a1?sid=eb495c5a-7d0a-413c-83dd-5ef28928fc48)
@@ -29,15 +24,6 @@ What types of households spent the most money?
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
