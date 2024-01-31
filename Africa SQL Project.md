@@ -44,19 +44,44 @@ I began by gathering some basic information on the data. I collected all of the 
 <img src ="images/SQL Filter Africa.png?raw=true"/>
 <img src ="images/Africa Filter.png?raw=true"/>
 
-The COUNT function mentioned earlier revealed that there were a total of 2,891 loans and/or grants disbursed to Africa since the start of the IDA.
+The COUNT function mentioned earlier revealed that there were a total of **2,891 loans and/or grants disbursed to Africa** since the start of the IDA.
 
 ## **Analysis: Money Distrubted to Africa**
-Using a simple SUM function, I was able to find that over $36 billion has been distributed to Africa over the past 63 years. This query is shown below. Using an AVG function, it was determined that the average loan/grant amount was around $12.5 million. 
+Using a simple SUM function, I was able to find that over **$36 billion has been distributed to Africa** over the past 63 years. This query is shown below. Using an AVG function, it was determined that the average loan/grant amount was around $12.5 million. 
 <img src ="images/Total Africa Loans.png?raw=true"/>
 <img src ="images/Total Africa Loans Amount.png?raw=true"/>
 
 ## **Analysis: Money Repaid**
-Continuing to look into Africa's data, I found that Africa has paid back over $97 million to the IDA, but still owes a whopping $1.1 billion. Luckily, out of the $36 billion that Africa has received over the years, the IDA has forgiven or cancelled nearly $235 million of that. Using a MAX function, it was noted that the largest cancelled loan totaled over $2.6 million. 
+Continuing to look into Africa's data, I found that Africa has **paid back over $97 million** to the IDA, but still **owes a whopping $1.1 billion**. Luckily, out of the $36 billion that Africa has received over the years, the IDA has forgiven or **cancelled nearly $235 million** of that. Using a MAX function, it was noted that the largest cancelled loan totaled over $2.6 million. 
 <img src ="images/Max Cancelled Africa.png?raw=true"/>
 
 ## **Analysis: Where is the Money Going?**
 With such large amounts of money being granted to region, I wanted to know what the money was being spent on and if it was making a difference. Using a variety of SQL functions including COUNT, GROUP BY, and ORDER BY, I was able to organize the different projects and identify which ones received the largest amount of grants or loans. 
+<img src ="images/Group by Project Counts.png?raw=true"/>
+<img src ="images/Project Totals.png?raw=true"/>
+
+As you can see from above, the top 3 projects that loans and grants were alloted to were:
+1. Niger Basin Water Resources
+2. Regional HIV/AIDS Treatment Project
+3. Regional Trade Facilitation Project
+
+The goal of the top project was to "enhance the regional coordination, development and sustainablity of water resources management in the Niger River Basin," according to a World Bank project review document found [here](https://documents1.worldbank.org/curated/zh/914521538145693780/pdf/Western-Africa-3A-Niger-Basin-Water-Resources.pdf). According to this same document, all project activities were fully completed. 
+
+The second project listed has been an ongoing effort to prevent the transmission on HIV/AIDS and provide medical help to those who have HIV/AIDS. The money allocated to this project has provided immense help to the region, and they continue to fight to slow the transmission.
+
+The [third project](https://projects.worldbank.org/en/projects-operations/project-detail/P063683) aimed to alleviate poverty in the region by promoting growth in the private sector. The goal was to improve access to financing for productive transactions, and cross-border trade. A final independent review deemed the project "Moderately Satisfactory".
+
+## **Key Findings**
+1. The countries within Africa have received a total of 5005 loans and grants from the IDA, totaling over $82.1 Billion.
+2. The **Region labeled Africa** received the most with a total of 2891 loans/grants, totaling over $36.3 Billion.
+3. Over **$200 Million of that debt has been cancelled** for the region of Africa.
+4. The region of Africa has **repaid over $97 Million** to the IDA, but still **owes over $1.1 Billion**.
+5. Top projects in this region include "Niger Basin Water Resources", "Regional HIV/AIDS Treatment Project", and the "Regional Trade Facilitation Project". The projects were all accomplished to some extent.
+
+## **Final Thoughts**
+As a math educator and data analyst, it was exciting applying some of the skills and analyses techniques I've been teaching my students for years. I am constantly learning and trying to grow my data skills, and I value any constructive feedback you may have. Please feel free to connect with me on LinkedIn and message me with any insights or suggestions. I am also actively pursuing a data analyst role, so if you know of any opportunities, I would love to learn more. You can also check out my [portfolio]( https://mctilyoudata.github.io/) and keep an eye out for future data projects!
+
+
 
 
 
