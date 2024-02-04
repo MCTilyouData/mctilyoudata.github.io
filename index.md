@@ -6,7 +6,7 @@
 
 #### [Africa SQL Project](/Africa SQL Project.md)
 <img src="images/Bank Background.jpg?raw=true"/>
-
+In this case study, I was prompted to analyze data from the World Bank IDA. Using SQL, I worked with over 1.25 milltion rows and looked into how money was distributed between different countries. After deciding to focus on Africa specifically, I found things like the total amount distributed to Africa, the amount of money that has been forgiven, and the top projects the commitments were for.
 
 ---
 #### [Massachusetts Education Project](https://www.loom.com/share/e982296bf26b41889e5d5fc70260b9a1?sid=eb495c5a-7d0a-413c-83dd-5ef28928fc48)
