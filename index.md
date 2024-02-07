@@ -6,7 +6,7 @@
 
 
 #### [Hospitals and Diabetes: Analyzing Patient Care](https://www.linkedin.com/pulse/hospitals-diabetes-analyzing-patient-care-madison-tilyou-nfbmc/)
-[<img src="images/Door DASh.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Medical Picture.png?raw=true"/>]
 Using data from the UC Irvine Machine Learning Repository, I worked with over 100,000 patient Ids in SQL. By joining demographic and health tables, I was able to compare things like typical lengths of stay in the hospital to the number of lab procedures, 
 differences between medical specialties and number of procedures, and more! 
 
@@ -24,7 +24,7 @@ For this project, I created a dashboard in Tableau using data from the Massachus
 
 ---
 #### [Door Dash Project](https://www.linkedin.com/pulse/analyzing-doordash-marketing-sales-madison-tilyou-k67zc/)
-[<img src="images/Door DASh.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Door DASh.png?raw=true"/>]
 In this case study from Data Analytics Accelerator, I was prompted to analyze Door Dash revenue from different marketing campaigns in Excel. The main focuses were:
 Which age groups were generating the most revenue and from what products?
 How could marketing target certain age groups to generate more income?
