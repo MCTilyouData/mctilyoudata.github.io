@@ -4,6 +4,14 @@
 
 ### Learn About My Projects
 
+
+#### [Hospitals and Diabetes: Analyzing Patient Care](https://www.linkedin.com/pulse/hospitals-diabetes-analyzing-patient-care-madison-tilyou-nfbmc/)
+[<img src="images/Door DASh.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+Using data from the UC Irvine Machine Learning Repository, I worked with over 100,000 patient Ids in SQL. By joining demographic and health tables, I was able to compare things like typical lengths of stay in the hospital to the number of lab procedures, 
+differences between medical specialties and number of procedures, and more! 
+
+---
+
 #### [Africa SQL Project](/Africa SQL Project.md)
 <img src="images/Bank Background.jpg?raw=true"/>
 In this case study, I was prompted to analyze data from the World Bank IDA. Using SQL, I worked with over 1.25 milltion rows and looked into how money was distributed between different countries. After deciding to focus on Africa specifically, I found things like the total amount distributed to Africa, the amount of money that has been forgiven, and the top projects the commitments were for.
