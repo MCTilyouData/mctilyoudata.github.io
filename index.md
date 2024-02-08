@@ -18,7 +18,7 @@ In this case study, I was prompted to analyze data from the World Bank IDA. Usin
 
 ---
 #### [NBA Analysis in Tableau] (https://public.tableau.com/app/profile/madison.tilyou/viz/NBAAnalysis_17074164396290/NBAAnalysis?publish=yes)
-<
+<img src="images/Basketball.jpg?raw=true"/> 
 Using a story format in Tableau, I analyzed NBA stats and created various visualizations like heat maps, tree maps, and bubble plots. These visualizations show things like what position has the most efficient 3-point shots, how each teams total scores stack up, comparing each individual player as well, and which players had the most assists on each team.
 ---
 #### [Massachusetts Education Project](https://www.loom.com/share/e982296bf26b41889e5d5fc70260b9a1?sid=eb495c5a-7d0a-413c-83dd-5ef28928fc48)
