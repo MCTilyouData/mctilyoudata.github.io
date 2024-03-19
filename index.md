@@ -4,6 +4,11 @@
 
 ### Learn About My Projects
 
+#### [Struggling to Survive: The Need for Clean Water and Sanitation](https://www.linkedin.com/pulse/struggling-survive-need-clean-water-sanitation-madison-tilyou-dfxgc/?trackingId=AQaTieg%2BSeqhSvcFcZC98w%3D%3D)
+<img src="images/Water.jpg?raw=true"/>
+Using data provided by NASA through EarthData, I worked in Tableau to analyze 195 countries and their percentages of population that had access to clean water and adequate sanitation, and how that correlated to their childhood mortality rates. Using the geographic locations provided in the data, I was able to create some pretty interesting visualizations, and make some clear insights about what locations need support and assistance.
+
+
 
 #### [Hospitals and Diabetes: Analyzing Patient Care](https://www.linkedin.com/pulse/hospitals-diabetes-analyzing-patient-care-madison-tilyou-nfbmc/)
 <img src="images/Medical Picture.jpg?raw=true"/>
