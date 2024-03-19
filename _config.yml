@@ -2,8 +2,8 @@ title: Madison C. Tilyou # your name (or website title) here
 logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst with a passion for math.<br>  
-  Running. Family. Analyzing data.  <br><br>
-  <a href="www.linkedin.com/in/madison-tilyou">View My LinkedIn Profile</a> 
+  Family. Running. Analyzing data.  <br><br>
+  <a href="https://www.linkedin.com/in/madison-tilyou/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
