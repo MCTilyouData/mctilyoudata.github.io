@@ -19,7 +19,7 @@ differences between medical specialties and number of procedures, and more!
 
 #### [Africa SQL Project](/Africa SQL Project.md)
 <img src="images/Bank Background.jpg?raw=true"/>
-In this case study, I was prompted to analyze data from the World Bank IDA. Using SQL, I worked with over 1.25 milltion rows and looked into how money was distributed between different countries. After deciding to focus on Africa specifically, I found things like the total amount distributed to Africa, the amount of money that has been forgiven, and the top projects the commitments were for.
+In this case study, I was prompted to analyze data from the World Bank IDA. Using SQL, I worked with over 1.25 million rows and looked into how money was distributed between different countries. After deciding to focus on Africa specifically, I found things like the total amount distributed to Africa, the amount of money that has been forgiven, and the top projects the commitments were for.
 
 ---
 
